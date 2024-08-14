@@ -1,4 +1,4 @@
-# Program 3
+# Program 3b
 (area and width)
 
 ## Program Description:  
